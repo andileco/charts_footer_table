@@ -1,0 +1,7 @@
+name: 'Charts Footer Table'
+description: 'Creates a Views footer handler for a table of the Chart display.'
+type: module
+package: Charts
+core: '8.x'
+dependencies:
+  - drupal:charts
